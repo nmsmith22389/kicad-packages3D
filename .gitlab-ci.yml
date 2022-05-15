@@ -2,7 +2,7 @@ image: python:latest
   
 before_script:
   - python -V
-  - git clone --depth 1 https://gitlab.com/kicad/libraries/kicad-library-utils $CI_BUILDS_DIR/kicad-library-utils
+  - git clone --depth 1 --branch ci_cd https://gitlab.com/aris-kimi/kicad-library-utils $CI_BUILDS_DIR/kicad-library-utils
 
 packages3d:
   only:
