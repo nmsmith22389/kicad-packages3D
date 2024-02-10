@@ -31,7 +31,7 @@ FILE_DESCRIPTION(
 
 FILE_NAME(
 /* name */ 'DSUB-9_Female_Horizontal_P2.77x2.84mm_EdgePinOffset9.40mm.step',
-/* time_stamp */ '2024-02-10T16:01:01',
+/* time_stamp */ '2024-02-10T16:23:16',
 /* author */ ('KiCAD','kicad'),
 /* organization */ ('OCCT'),
 /* preprocessor_version */ '',
@@ -2722,14 +2722,14 @@ DATA;
 #2532 = ADVANCED_FACE('',(#2533),#2543,.T.);
 #2533 = FACE_BOUND('',#2534,.T.);
 #2534 = EDGE_LOOP('',(#2535,#2536,#2537,#2538,#2539,#2540,#2541,#2542));
-#2535 = ORIENTED_EDGE('',*,*,#2071,.F.);
-#2536 = ORIENTED_EDGE('',*,*,#2102,.F.);
-#2537 = ORIENTED_EDGE('',*,*,#2128,.F.);
-#2538 = ORIENTED_EDGE('',*,*,#2159,.F.);
-#2539 = ORIENTED_EDGE('',*,*,#2185,.F.);
-#2540 = ORIENTED_EDGE('',*,*,#2216,.F.);
-#2541 = ORIENTED_EDGE('',*,*,#2242,.F.);
-#2542 = ORIENTED_EDGE('',*,*,#2265,.F.);
+#2535 = ORIENTED_EDGE('',*,*,#2216,.F.);
+#2536 = ORIENTED_EDGE('',*,*,#2242,.F.);
+#2537 = ORIENTED_EDGE('',*,*,#2265,.F.);
+#2538 = ORIENTED_EDGE('',*,*,#2071,.F.);
+#2539 = ORIENTED_EDGE('',*,*,#2102,.F.);
+#2540 = ORIENTED_EDGE('',*,*,#2128,.F.);
+#2541 = ORIENTED_EDGE('',*,*,#2159,.F.);
+#2542 = ORIENTED_EDGE('',*,*,#2185,.F.);
 #2543 = PLANE('',#2544);
 #2544 = AXIS2_PLACEMENT_3D('',#2545,#2546,#2547);
 #2545 = CARTESIAN_POINT('',(-5.54,-12.54,6.25));
