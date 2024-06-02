@@ -1,14 +1,14 @@
 ## Footprint Library Credits
 
-The credits of 3D models are listed in respective folder.  
-Please fill all 3D models credits and info source data accordingly.  
+The credits of 3D models are listed in respective folder.
+Please fill all 3D models credits and info source data accordingly.
 
 ### Info requirements:
 - Author
 - if the 3D model is script generated, a link to the script generator is required as well as the version and sw used
 - if the 3D model is manually generated, include the source model @ https://github.com/KiCad/packages3D-source
 
-<hr>  
+<hr>
 
 ### Connectors_Molex.3dshapes
 
@@ -25,6 +25,16 @@ STEP and WRL models designed by hackscribble using modified version of CadQuery 
 - [Molex_6410](https://github.com/easyw/kicad-3d-models-in-freecad/tree/master/cadquery/FCAD_script_generator/Molex_6410)
 - FreeCAD 0.17 R10802
 - CadQuery 0.5.2
+
+#### KK 5672, 41791, 41792  series
+
+WRL models designed by Franck using CadQuery script by maurice and hyOzd
+- [Molex_5672](https://github.com/easyw/kicad-3d-models-in-freecad/pull/384)
+- [Molex_41791](https://github.com/easyw/kicad-3d-models-in-freecad/pull/386)
+- [Molex_41792](https://github.com/easyw/kicad-3d-models-in-freecad/pull/386)
+- FreeCAD 0.17 R10802
+- CadQuery 0.5.2
+
 
 #### SlimStack 54722 and 55560 series
 
