@@ -33,4 +33,5 @@ Tool:	- FreeCAD 0.17 Build 11223 64 bit Microsoft windwos platform https://www.f
 #### STM32WB5MMG
 STEP and WRL models designed by Gregor Christandl
 Author:	Gregor Christandl
-Tool:	- FreeCAD 0.20 Build 29177 64 bit Microsoft windwos platform https://www.freecadweb.org/
+Tool:	- FreeCAD 0.21.2 Build 33771 64 bit Microsoft Windows platform https://www.freecadweb.org/
+Model: 	- https://gitlab.com/kicad/libraries/kicad-packages3D-source/-/blob/master/RF_Module.3dshapes/ST-SiP-LGA-86-11x7.3mm.FCStd?ref_type=heads
