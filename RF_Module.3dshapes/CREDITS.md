@@ -30,7 +30,7 @@ STEP and WRL models designed by Stefan Olsson
 Author:	Stefan Olsson
 Tool:	- FreeCAD 0.17 Build 11223 64 bit Microsoft windwos platform https://www.freecadweb.org/
 
-#### STM32WB5MMG
+#### ST-SiP-LGA-86-11x7.3mm
 STEP and WRL models designed by Gregor Christandl
 Author:	Gregor Christandl
 Tool:	- FreeCAD 0.21.2 Build 33771 64 bit Microsoft Windows platform https://www.freecadweb.org/
