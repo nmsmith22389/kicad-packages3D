@@ -1,0 +1,20 @@
+image: python:latest
+  
+before_script:
+  - python -V
+  - git clone --depth 1 --branch ci_cd https://gitlab.com/aris-kimi/kicad-library-utils $CI_BUILDS_DIR/kicad-library-utils
+
+packages3d:
+  only:
+    refs:
+      - merge_requests
+    changes:
+      - "**/*.stp"
+      - "**/*.step"
+      - "**/*.wrl"
+      - "*error_missing_fp"
+  script:
+    - $CI_BUILDS_DIR/kicad-library-utils/klc-check/gitlabci/check_packages3d.sh
+  artifacts:
+    reports:
+      metrics: metrics.txt
