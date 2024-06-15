@@ -32,3 +32,8 @@ STEP and WRL models designed by poeschlr using CadQuery script by maurice and hy
 - [molex](https://github.com/easyw/kicad-3d-models-in-freecad/tree/master/cadquery/FCAD_script_generator/jst)
 - FreeCAD 0.15 or 0.17 >= R10802
 - CadQuery 0.5.2
+
+#### NH series
+
+STEP and WRL models designed by bodgit
+- FreeCAD 0.19
